@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">   
+    <link rel="stylesheet" href="./style/style.css">
+    <title>Pet Age Calculator</title>
+</head>
+<body>
+      <div class="container">
+            <div>
+                <h1>Pet Age Calculator</h1>
+            </div>
+            <div>
+                <!-- <p>If you are a pet owner, we will answer you</p> -->
+                <h2 class="question">How old is your pet in 'human years' or other pet years?</h2>
+            </div>
+            <div class="calculator">
+                <div>
+                    <input id="pet-age" value="1" type="number" autofocus ></input>
+                    <select name=from-animal id=from-animal></select><span class="year"> years equals</span>
+                </div>
+                <div>
+                    <input id="pet-age-converted" value="10.5" readonly></input>
+                    <select name=to-animal id=to-animal></select><span class="year"> years</span>
+                </div>
+          </div>
+            <div class="facts">
+
+              <div class="card-wrap"> <!-- The parent element -->
+                <div class="card"> <!-- Child element that flips -->
+                    <div class="card-front">
+                      <div class="card-img" id="card-img-1" style="background-image: url('./images/human.jpg');"></div>
+                      <div class="card-info">
+                          <h2 class="from-fun-fact-head">Human: Fun Facts</h2>
+                      </div>
+                    </div>
+                    <div class="card-back" id="card-back">
+                      <div class="card-except">
+                        <h2 class="from-fun-fact-head card-heading">Human: Fun Facts</h2>
+                        <p id="facts-card-1">
+                           Checkout our collection of weird and interesting facts. We promise, you'll be surprised!
+                        </p>
+                    </div>
+                    <a id="btn-show-fact-card-1" href="#">Show Fact</a>
+                    </div>
+                </div>
+             </div>
+  
+             <div class="card-wrap"> <!-- The parent element -->
+              <div class="card"> <!-- Child element that flips -->
+                  <div class="card-front">
+                    <div class="card-img" id="card-img-2" style="background-image: url('./images/dog.jpg');"></div>
+                    <div class="card-info">
+                        <h2 class="to-fun-fact-head">Dogs: Fun Facts</h2>
+                    </div>
+                  </div>
+                  <div class="card-back">
+                    <div class="card-except">
+                      <h2 class="to-fun-fact-head">Dogs: Fun Facts</h2>
+                      <p id="facts-card-2">
+                        Checkout our collection of weird and interesting facts. We promise, you'll be surprised!.
+                      </p>
+                  </div>
+                  <a id="btn-show-fact-card-2" href="#">Show Fact</a>
+                  </div>
+              </div>
+           </div>
+        </div>
+      </div> <!-- end of container -->
+
+    <script src="./index.js"></script>
+</body>
+</html>

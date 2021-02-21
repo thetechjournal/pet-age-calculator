@@ -1,0 +1,79 @@
+[
+    {
+        "human": [
+            "Learning to talk begins in the womb.", 
+            "Babies are born with the ability to swim.",
+            "Birthmarks are surprisingly common.",
+            "Newborns are short-sighted.",
+            "Babies have more bones than adults.",
+            "Babies' stomachs are surprisingly tiny.",
+            "It's normal for newborns to lose weight.",
+            "There's no such thing as normal baby sleep.",
+            "Babies learn much faster than adults.",
+            "Your baby loves your scent."
+        ],    
+        "cat": [
+            "The first year of a cat’s life is roughly equal to the first 15 years of human life.", 
+            "Cats can rotate their ears 180 degrees.",
+            "The hearing of the average cat is at least five times stronger than that of a human adult.",
+            "In the largest domestic cat breed, the average male weighs approximately 20 pounds.",
+            "Domestic cats spend about 70 per cent of the day sleeping and 15 per cent of the day grooming.",
+            "A cat cannot see directly under its nose.",
+            "Most cats have no eyelashes.",
+            "Cats have five toes on each front paw, but only four on the back ones.",
+            "Some believe that if you dream about a white cat, good luck will follow.",
+            "Meows are not innate cat language—they developed them to communicate with humans!"
+            ],
+        "chicken": [
+            "The chicken was the first bird to have its genome sequenced, in 2004.",
+            "Chickens can remember over 100 different faces of people or animals.",
+            "An egg develops at 88 degrees Fahrenheit, and is laid at 105 degrees.",
+            "As chickens grow older, they lay larger eggs, but fewer than when they’re younger.",
+            "Chickens can taste saltiness, but not sweetness.",
+            "A hen has to eat about four pounds of feed to make one dozen eggs.",
+            "On average, 97 chickens are killed every 0.05 seconds worldwide.",
+            "The record for most egg yolks in one egg is 9 yolks.",
+            "Chickens bodies contain 15% more water than humans.",
+            "A chicken’s heart beats from 220 to 360 times per minute."
+                ],        
+        "dog": [
+            "Dogs noses are wet to help absorb scent chemicals.", 
+            "Three dogs survived the Titanic sinking.",
+            "A Bloodhound’s sense of smell can be used as evidence in court.",
+            "The tallest dog in the world is 44 inches tall.",
+            "A Greyhound could beat a Cheetah in a long distance race",
+            "The African Hunting dog is the most successful hunter in the world",
+            "Your dog is as smart as a two-year old",
+            "Newfoundlands make great lifeguards because they have water-resistant coats and webbed feet.",
+            "All puppies are born deaf. As they get older, they can hear 4 times better than humans can.",
+            "Dogs don’t sweat, instead they pant to cool themselves."
+        ],
+        "goat": [
+            "Goats dislike water and would rather leap over streams and puddles than step in them.",
+            "Goats can be taught their name and to come when called.",
+            "A baby goat is called a kid, but did you know that a goat giving birth is said to be 'kidding'?",
+            "They Have Beards and Wattles", 
+            "Kids (baby goat) use their lips to learn about the world around them",
+            "Like human kids, goat kids like to snuggle",
+            "When bottle-raised, kids will bond with their caregivers",
+            "The vocal sound a goat makes is called a bleat",
+            "Goat kids learn to stand within minutes of being born",
+            "Goats have incredible agility and balance."   
+        ],
+        "rabbit": [
+            "A rabbit’s best feature? Their long ears! They can turn their ears by 180 degrees. Wow.",
+            "Rabbits are amazing athletes — they can jump as high as 90 centimetres in one leap!",
+            "Rabbits have almost 360 degree vision but they are born with their eyes shut",
+            "A baby rabbit is called a kit, a female is called a doe and a male is called a buck.", 
+            "Like cats, happy rabbits purr when they’re content and relaxed.",
+            " A rabbit’s teeth never stop growing! Instead, they’re gradually worn down as the rabbit chews on food",
+            "Rabbits are very social creatures that live in groups.",
+            "Some rabbits are as big as a toddler.",
+            "Rabbits groom themselves like cats do.",
+            "Some rabbits are as big as a toddler." 
+        ]
+
+    }
+
+]
+    
